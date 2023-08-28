@@ -9,6 +9,7 @@ public class Main {
   public int product(int x, int y, int z){
    return x+y+z;
   }
+  //changes made
   public double product(double x, double y){
    return x+y;
   }
